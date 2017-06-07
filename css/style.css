@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Herr+Von+Muellerhoff');
+
+* {
+  font-family: 'PT Sans', 'Lato', sans-serif;
+}
+body {
+  padding-top: 20px;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+}
+.navbar-brand {
+  font-size: 50px;
+  font-family: 'Herr Von Muellerhoff', 'Lato', sans-serif;
+}
+.btn {
+}
+.btn-toolbar {
+  text-align: center;
+}
+img {
+  cursor: pointer;
+}
+.fixed-button-width{
+  width: 150px;
+}
